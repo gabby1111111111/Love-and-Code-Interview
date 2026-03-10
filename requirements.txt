@@ -1,0 +1,15 @@
+streamlit
+httpx
+pydantic
+pydantic-settings
+openai
+anthropic
+qdrant-client
+sentence-transformers
+colorama
+fastapi
+python-dotenv
+langgraph
+langchain
+loguru
+pillow
