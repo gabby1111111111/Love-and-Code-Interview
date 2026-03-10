@@ -10,6 +10,26 @@
 
 本项目是从企业级多智能体 RAG 系统项目 [Aegis-Isle] 剥离出的独立核心子系统，主要用于展示在 Agent 工作流模型、LangGraph 流程控制、LLM 结构化响应生成以及情景化 RAG 方面的技术储备。它将枯燥的“刷八股文”重塑成了带有“跑团/视觉小说”属性的角色扮演级面试体验。
 
+### 📸 界面截屏演示
+
+<div align="center">
+  <img src="assets/screen1.png" alt="登录页面" width="80%">
+  <br>
+  <em>极简主义的启航页：「接入思维阵列」</em>
+</div>
+
+<div align="center">
+  <img src="assets/screen2.png" alt="面试官拷问" width="80%">
+  <br>
+  <em>主面试官（如：人类帝皇）的压迫感技术提问与动态满意度条</em>
+</div>
+
+<div align="center">
+  <img src="assets/screen3.png" alt="内置导师提示" width="80%">
+  <br>
+  <em>双轨制辅导：回答输入区与后台导师（如：七海建人）提供的破题思路与通俗类比</em>
+</div>
+
 ### 🎯 核心技术与架构能力展示
 
 通过分析这份代码，招聘方可以验证以下核心能力栈：
@@ -100,6 +120,26 @@ python scripts/run_interview_app.py
 **An Immersive Role-Playing Interview System**
 
 This project is an independent core subsystem extracted from the enterprise-grade multi-agent RAG system [Aegis-Isle]. It showcases advanced Agent workflows, LangGraph logic routing, LLM structured JSON generations, and situated RAG capabilities. It re-imagines the boring code-interview preparation into a table-top RPG / Visual Novel styled immersive experience.
+
+### 📸 Interface Showcases
+
+<div align="center">
+  <img src="assets/screen1.png" alt="Welcome Screen" width="80%">
+  <br>
+  <em>Minimalist welcome terminal: "Enter the Thought Array"</em>
+</div>
+
+<div align="center">
+  <img src="assets/screen2.png" alt="Interviewer Judgment" width="80%">
+  <br>
+  <em>The intimidating main interviewer (e.g. The Emperor) asking complex technical questions with a dynamic satisfaction bar</em>
+</div>
+
+<div align="center">
+  <img src="assets/screen3.png" alt="Tutor Hints" width="80%">
+  <br>
+  <em>Dual-track coaching system: Answer input field backed by hints and ELI5 analogies from your tutor</em>
+</div>
 
 ### 🎯 Core Features & AI Engineering Capabilities
 
